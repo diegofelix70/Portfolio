@@ -18,6 +18,10 @@ O controle das tarefas desse projeto será realizado no GitHub
 
 :package: Menu sidebar
 
-##
+## Conhecimentos
 
 :package: Conhecimentos
+
+## Projetos
+
+:package: Projetos
