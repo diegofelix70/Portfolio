@@ -28,4 +28,4 @@ O controle das tarefas desse projeto será realizado no GitHub
 
 ## Formulário de contato
 
-:packege: Fomrulário de contato
+:package: Fomrulário de contato
