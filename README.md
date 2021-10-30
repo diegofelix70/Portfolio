@@ -37,3 +37,7 @@ O controle das tarefas desse projeto será realizado no GitHub
 
 :package: Footer
 :beetle: Correção de bugs no menu
+
+## Calculo de orçamento
+
+:package: script calculo de orçamento

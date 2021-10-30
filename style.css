@@ -32,6 +32,7 @@ html{
 }
 .show-menu .hamburguer{
     right: 15rem;
+    z-index: 300;
 }
 .line{
     width: 100%;
@@ -442,10 +443,10 @@ header{
 }
 .orcamento-wrapper{
     width: 60%;
-    height: 80%;
+    height: 70%;
     background-color: #ffffff99;
     border-radius: 10px;
-    box-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, .5);
+    box-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.5);
     position: relative;
 }
 .sessao-orcamento h1{
@@ -468,7 +469,7 @@ header{
     display: grid;
     grid-template-columns: auto 1fr;
     column-gap: 2rem;
-    row-gap: 2rem;
+    row-gap: 2.5rem;
 }
 .sessao-orcamento label{
     font-family: var(--font-secudary);
