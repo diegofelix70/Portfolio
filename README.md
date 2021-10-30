@@ -11,7 +11,6 @@ O controle das tarefas desse projeto será realizado no GitHub
 :package: Nova funcionalidade
 :up: Atualização
 :beetle: Correção de bug
-
 :checkered_flag: Release
 
 ## Menu
@@ -29,3 +28,12 @@ O controle das tarefas desse projeto será realizado no GitHub
 ## Formulário de contato
 
 :package: Fomrulário de contato
+
+## Formulário de orçamento
+
+:package: Formulário de contato
+
+## Footer
+
+:package: Footer
+:beetle: Correção de bugs no menu
