@@ -47,7 +47,7 @@ O controle das tarefas desse projeto será realizado no GitHub
 ## Calculo de orçamento
 
 :package: script calculo de orçamento
-<<<<<<< HEAD
+
 
 ## Responsividade
 
@@ -58,5 +58,3 @@ Correção de bugs
 ## Finalização do projeto
 
 :checkered_flag: 
-=======
->>>>>>> 55cf3e77f21ad6bd985e4a1fa9c55ab067f93d2f
