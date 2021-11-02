@@ -58,3 +58,5 @@ Correção de bugs
 ## Finalização do projeto
 
 :checkered_flag: 
+
+Finalização
