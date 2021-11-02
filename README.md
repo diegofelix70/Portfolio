@@ -41,3 +41,13 @@ O controle das tarefas desse projeto será realizado no GitHub
 ## Calculo de orçamento
 
 :package: script calculo de orçamento
+
+## Responsividade
+
+:up: Atualização
+
+Correção de bugs
+
+## Finalização do projeto
+
+:checkered_flag: 
