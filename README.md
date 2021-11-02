@@ -2,6 +2,12 @@
 
 portfólio do desenvolvedor 
 
+Esse projeto foi instruído pelo João Carlos Lima e Silva (https://github.com/joaocarloslima) via YouTube, onde trata de noções de HTML, CSS e JavaScript.
+
+Escolhi por fazer esse projeto como o primeiro aqui porque engloba o que eu venho aprendendo até agora.
+
+A última parte(responsividade), não estava disponivél, então toda essa parte foi de minha a autoria.
+
 ## Tarefas
 
 O controle das tarefas desse projeto será realizado no GitHub
