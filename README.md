@@ -2,6 +2,12 @@
 
 portfólio do desenvolvedor 
 
+Esse projeto foi instruído pelo João Carlos Lima e Silva (https://github.com/joaocarloslima) via YouTube, onde trata de noções de HTML, CSS e JavaScript.
+
+Escolhi por fazer esse projeto como o primeiro aqui porque engloba o que eu venho aprendendo até agora.
+
+A última parte(responsividade), não estava disponivél, então toda essa parte foi de minha a autoria.
+
 ## Tarefas
 
 O controle das tarefas desse projeto será realizado no GitHub
@@ -41,6 +47,7 @@ O controle das tarefas desse projeto será realizado no GitHub
 ## Calculo de orçamento
 
 :package: script calculo de orçamento
+<<<<<<< HEAD
 
 ## Responsividade
 
@@ -51,3 +58,5 @@ Correção de bugs
 ## Finalização do projeto
 
 :checkered_flag: 
+=======
+>>>>>>> 55cf3e77f21ad6bd985e4a1fa9c55ab067f93d2f
